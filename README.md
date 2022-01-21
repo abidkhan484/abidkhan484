@@ -4,7 +4,7 @@
 [![Facebook: AbidKhan](https://img.shields.io/badge/-careless.abid-blue?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/careless.abid)](https://facebook.com/careless.abid)
 [![Stopstalk: abidkhan484](https://img.shields.io/badge/-abidkhan484-black?style=flat&link=https://www.stopstalk.com/user/profile/abidkhan484)](https://www.stopstalk.com/user/profile/abidkhan484)
 
-📝 [Resume](https://docs.google.com/document/d/1B5GzQKHHBD_i27T21CK9Lr68PvQ1RqdHb-m0gYFRWmg/view)
+📝 [Resume](https://docs.google.com/document/d/1B5GzQKHHBD_i27T21CK9Lr68PvQ1RqdHb-m0gYFRWmg/export?format=pdf)
 
 ```python
 class AboutMe:
