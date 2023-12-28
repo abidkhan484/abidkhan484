@@ -30,6 +30,9 @@ class AboutMe:
             "Project_Management_Tools": [JIRA, (Trello,)]
         }
 ```
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/abidkhan484?theme=light&font=Noto%20Serif%20Tangut&ext=activity)
+
 <!--
 ### Hi there 👋
 **abidkhan484/abidkhan484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
