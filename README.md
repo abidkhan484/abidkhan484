@@ -30,7 +30,8 @@ class AboutMe:
             "Project_Management_Tools": [JIRA, (Trello,)]
         }
 ```
-
+[![Abidkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidkhan484)](https://github.com/abidkhan484)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan484&layout=donut)](https://github.com/abidkhan484)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abidkhan484?theme=light&font=Noto%20Serif%20Tangut&ext=activity)
 
 <!--
