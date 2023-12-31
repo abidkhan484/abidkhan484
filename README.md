@@ -30,22 +30,29 @@ class AboutMe:
             "Project_Management_Tools": [JIRA, (Trello,)]
         }
 ```
-[![Abidkhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=abidkhan484)](https://github.com/abidkhan484)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidkhan484&layout=donut)](https://github.com/abidkhan484)
-[![LeetCode Stats](https://leetcard.jacoblin.cool/abidkhan484?theme=light&font=Noto%20Serif%20Tangut&ext=activity)](https://leetcode.com/abidkhan484)
 
-<!--
-### Hi there 👋
-**abidkhan484/abidkhan484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+    <a href="https://github.com/abidkhan484">
+        <img align=top src="https://github-readme-stats-snowy-seven-18.vercel.app/api?username=abidkhan484" alt="Abidkhan's GitHub stats">
+    </a>
+    <a href="https://github.com/abidkhan484">
+        <img align=top src="https://github-readme-stats-snowy-seven-18.vercel.app/api/top-langs/?username=abidkhan484&layout=donut" alt="Top Langs">
+    </a>
+</div>
+<div>
+    <a href="https://leetcode.com/abidkhan484">
+        <img width=450px src="https://leetcard.jacoblin.cool/abidkhan484?theme=light&font=Noto%20Serif%20Tangut&ext=activity" alt="LeetCode Stats">
+    </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Recent Blogs
+
+* [Concurrent execution and multiprocessing using Python](https://medium.com/@abidkhan484/concurrent-execution-of-prime-number-check-using-python-8d6d389202d5)
+* [NextJS app deployment using Gitlab CI](https://medium.com/@abidkhan484/automate-nextjs-app-deployment-using-gitlab-ci-83d8fdb9ae89)
+* [Load Balancing Playground with Nginx and Docker](https://medium.com/@abidkhan484/load-balancing-playground-with-nginx-and-docker-d2a853545a0b)
+
+
+
+
+
