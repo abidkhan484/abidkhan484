@@ -30,16 +30,6 @@ class AboutMe:
             "Project_Management_Tools": [JIRA, (Trello,)]
         }
 ```
-
-
-<div>
-    <a href="https://github.com/abidkhan484">
-        <img align=top src="https://github-readme-stats-snowy-seven-18.vercel.app/api?username=abidkhan484" alt="Abidkhan's GitHub stats">
-    </a>
-    <a href="https://github.com/abidkhan484">
-        <img align=top src="https://github-readme-stats-snowy-seven-18.vercel.app/api/top-langs/?username=abidkhan484&layout=donut" alt="Top Langs">
-    </a>
-</div>
 <div>
     <a href="https://leetcode.com/abidkhan484">
         <img width=450px src="https://leetcard.jacoblin.cool/abidkhan484?theme=light&font=Noto%20Serif%20Tangut&ext=activity" alt="LeetCode Stats">
